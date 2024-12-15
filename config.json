@@ -1,0 +1,9 @@
+{
+    "sicall_cloud_active": false,
+    "aws_access_key": "your_aws_access_key",
+    "aws_secret_key": "your_aws_secret_key",
+    "aws_bucket_name": "your_bucket_name",
+    "csv_file_path": "water_usage_data.csv",
+    "ancho": 200,
+    "alto": 800
+}
